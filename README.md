@@ -12,6 +12,8 @@ https://next-images-portfolio-blog.herokuapp.com
 
 by Owen King https://github.com/OwnKng
 
+https://ownkng.dev/
+
 https://github.com/OwnKng/ownkng.dev
 
 Settings:
