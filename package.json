@@ -6,7 +6,8 @@
     "node": "16.x"
   },
   "cacheDirectories": [
-    "node_modules"
+    "node_modules",
+    ".next/cache"
   ],
   "scripts": {
     "dev": "next dev",
