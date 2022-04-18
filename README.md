@@ -68,5 +68,6 @@ heroku create next-images-portfolio-blog
 ```java
 heroku config:set
 
+
 heroku config:set PUBLIC_URL="https://next-images-portfolio-blog.herokuapp.com"
 ```
