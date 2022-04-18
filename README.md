@@ -1,3 +1,19 @@
+# next-images-portfolio-blog
+
+# 🚀 Javascript full-stack 🚀
+
+## MERN Stack
+
+### React / Express / MongoDB / Redux
+
+https://github.com/coding-to-music/next-images-portfolio-blog
+
+https://next-images-portfolio-blog.herokuapp.com
+
+by Andrew Bateman https://github.com/AndrewJBateman
+
+https://github.com/AndrewJBateman/mern-project
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -28,3 +44,29 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/next-images-portfolio-blog.git
+git push -u origin main
+```
+
+## Heroku
+
+```java
+heroku create next-images-portfolio-blog
+```
+
+## Heroku MongoDB Environment Variables
+
+```java
+heroku config:set
+
+heroku config:set PUBLIC_URL="https://next-images-portfolio-blog.herokuapp.com"
+```
